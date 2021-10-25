@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://raw.githubusercontent.com/huizhen289/HZ/main/Pictures/Swift%20River%2C%20New%20Hampshire%2C%20USA.jpg)
 
 <!-- Add your details -->
 
